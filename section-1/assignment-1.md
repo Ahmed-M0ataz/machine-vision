@@ -58,3 +58,16 @@ Add functionality to:
 
 
 Good luck! 🚀
+
+
+# Submission Instructions
+
+## Create a new GitHub repository named `machine-vision`
+
+1. Your repository should include:
+
+   - Folder named `assignment-1-solution`
+        - `README.md`
+        - notebook with your solution
+
+**Note:** Make sure your repository is public so it can be accessed.
